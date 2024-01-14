@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&display=swap');
+
+
+.graph_display {
+    display: flex;
+    width: 80%;
+    height: 40%;
+    gap: 8%;
+    margin-bottom: 5%;
+}
+
+.graph_display1 {
+    width: 90%;
+    height: 35%;
+    margin-bottom: 5%;
+}
+
+.data__header {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: 700;
+}
+
+
+
+@media screen and (max-width: 1150px) {
+   
+}
+
+/* media query for small device */
+
+@media screen and (max-width: 600px) {
+
+}
